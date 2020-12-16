@@ -1,0 +1,51 @@
+/*Login page styles*/
+html,body,#root{
+  height:100%;
+  background:#f0f2f5;
+}
+
+.loginPage{
+  width:70%;
+  margin: auto;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap:wrap;
+}
+
+.AppHeader{
+  width:100%;
+}
+
+.AppHeader img{
+  height: 70px;
+}
+
+.RecentLogins{
+  width:50%;
+}
+
+.loginDetails{
+  width:50%;
+}
+
+.loginDetails form{
+  width:80%;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+  justify-content: center;
+  background : #fff;
+}
+
+.loginDetails input{
+  width: 80%;
+  padding:3%;
+  margin:2%;
+}
+
+.loginDetails input[type="submit"]{
+  cursor:pointer;
+  background:#1877f2;
+  color:#fff;
+}
