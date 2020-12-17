@@ -50,4 +50,8 @@ html,body,#root{
   cursor:pointer;
   background:#1877f2;
   color:#fff;
+  font-weight: bold;
+  font-size: 1.2em;
+  border: none;
+  border-radius: 4%;
 }
