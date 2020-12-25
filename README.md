@@ -1,5 +1,10 @@
 ## [Demo Here](https://banurekhamohan279.github.io/Facebook-mockup/)
 
+## Tech stack
+- HTML5
+- CSS3
+- React Js
+
 ## Available Scripts
 
 In the project directory, you can run:
